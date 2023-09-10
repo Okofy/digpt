@@ -24,4 +24,4 @@ jobs:
       - name: Run your Ruby script
         env:
           DISCORD_BOT_TOKEN: ${{ secrets.DISCORD_BOT_TOKEN }}
-        run: ruby your_script.rb
+        run: ruby main.rb  # Adjust the script name as needed
