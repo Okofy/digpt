@@ -3,7 +3,7 @@ require_relative 'gpt.rb'
 require 'net/http'
 require 'json'
 
-bot = Discordrb::Bot.new token: 'MTA4MTU3ODM3NzQzNTE1MjU4NQ.GfdYOo.6CmJJSEyy_E-nYTuLSjRs_KPRwz5JmcGqnfOu8'
+bot = Discordrb::Bot.new token: 'MTA4MTU3ODM3NzQzNTE1MjU4NQ.GYpdmD.mcwiskBhlpposy6YhdGxZafTWrEnk6FmnHdPX0'
 
 MAX_MESSAGE_LENGTH = 2000
 
